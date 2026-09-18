@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://github.com/Draskint.png?size=240" alt="Logo de Draskint" width="140" />
+
 # Draskint
 
 ### Productos digitales claros, modernos y confiables.
